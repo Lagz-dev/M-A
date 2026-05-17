@@ -15,7 +15,7 @@
 ## 📸 Preview
 
 <p align="center">
-  <img src="./img/Screenshot_20260517_165311_Chrome.jpg" width="800">
+  <img src="./img/Screenshot_20260517_172304_Chrome.jpg" width="800">
 </p>
 
 ---
