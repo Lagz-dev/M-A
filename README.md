@@ -43,6 +43,7 @@
 📦 projeto
  ┃ ┗ IMG
  ┣ 📜 index.html
+ ┣ 📜 styles.css
 ```
 
 ---
